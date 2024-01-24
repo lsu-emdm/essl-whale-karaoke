@@ -7,5 +7,6 @@ AI Music Generation Challenge
 
 [ESSL Whale Karaoke](https://emdm.cct.lsu.edu/research/esslab/essl-whale-karaoke/)
 
+![Whale 1](media/whale_1.jpg)
 
 2024 by Jesse Allison and Carlos Román
