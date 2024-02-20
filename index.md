@@ -11,9 +11,10 @@ AI Music Generation Challenge
 
 ![Whale 1](media/whale_1.jpg)
 
-![Karaoke Interface](media/whale-karaoke-patch.png)
 
 <hr>
+
+## Team Members
 
 ESSL Team Members on this project
 
