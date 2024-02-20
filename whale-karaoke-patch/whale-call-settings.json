@@ -1,0 +1,39 @@
+{
+	"pattrstorage" : 	{
+		"name" : "whale-call-settings",
+		"slots" : 		{
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"stretch-factor" : [ 4.0 ],
+					"whale-song" : [ 3 ],
+					"pitch-compensation" : [ 0.1 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"stretch-factor" : [ 5.0 ],
+					"whale-song" : [ 7 ],
+					"pitch-compensation" : [ 0.15 ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"data" : 				{
+					"stretch-factor" : [ 5.0 ],
+					"whale-song" : [ 11 ],
+					"pitch-compensation" : [ 0.05 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
