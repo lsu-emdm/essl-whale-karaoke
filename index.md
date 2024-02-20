@@ -2,11 +2,30 @@
 
 AI Music Generation Challenge
 
-- Whale Karaoke
+- [Whale Karaoke](whale-karaoke.md)
 - Concatenative Synthesis
+- Tempo Experiments
+- Whale Beats
 
 [ESSL Whale Karaoke](https://emdm.cct.lsu.edu/research/esslab/essl-whale-karaoke/)
 
 ![Whale 1](media/whale_1.jpg)
 
+![Karaoke Interface](media/whale-karaoke-patch.png)
+
+<hr>
+
+ESSL Team Members on this project
+
+- Jesse Allison
+- Carlos Román
+- Treya Nash
+- Ka Hei Cheng
+- Morgan Weeks
+- Drew Farrar
+
+
 2024 by Jesse Allison and Carlos Román
+
+![Hupphakus](media/Hupphakus-web.jpg)
+
