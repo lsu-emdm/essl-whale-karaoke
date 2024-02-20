@@ -6,7 +6,7 @@ AI Music Generation Challenge
 
 - [Whale Karaoke](whale-karaoke.md)
 - Concatenative Synthesis
-- Tempo Experiments
+- [Tempo Experiments](tempo-experiments.md)
 - Whale Beats
 
 [ESSL Whale Karaoke](https://emdm.cct.lsu.edu/research/esslab/essl-whale-karaoke/)
