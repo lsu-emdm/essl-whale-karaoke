@@ -29,29 +29,29 @@ Human/Whale duet:
 
 Original: 
 
-<audio src="./media/human-whale-hybrids/09/09 hb-call-8.wav" controls></audio>
+<audio src="./media/human-whale-hybrids/16/09 hb-call-8.wav" controls></audio>
 
 Human:
 
-<audio src="./media/human-whale-hybrids/09/whale-16-8-3-20.wav" controls></audio>
+<audio src="./media/human-whale-hybrids/16/whale-16-8-3-20.wav" controls></audio>
 
 Human/Whale duet: 
 
-<audio src="./media/human-whale-hybrids/09/whale-hybrid-16-8-3-20.wav" controls></audio>
+<audio src="./media/human-whale-hybrids/16/whale-hybrid-16-8-3-20.wav" controls></audio>
 
 ### 20
 
 Original: 
 
-<audio src="./media/human-whale-hybrids/09/11 hb-call-10.wav" controls></audio>
+<audio src="./media/human-whale-hybrids/20/11 hb-call-10.wav" controls></audio>
 
 Human:
 
-<audio src="./media/human-whale-hybrids/09/whale-20-10-6-1000.wav" controls></audio>
+<audio src="./media/human-whale-hybrids/20/whale-20-10-6-1000.wav" controls></audio>
 
 Human/Whale duet: 
 
-<audio src="./media/human-whale-hybrids/09/whale-hybrid-20-10-6-1000.wav" controls></audio>
+<audio src="./media/human-whale-hybrids/20/whale-hybrid-20-10-6-1000.wav" controls></audio>
 
 
 <hr>
