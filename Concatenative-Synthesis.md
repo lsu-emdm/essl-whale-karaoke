@@ -22,7 +22,7 @@ A fragment from a whale song reconstructed from Dvorak's Aria:
 
 <audio src="./Concatenative Synthesis Experiments/Whale - Sopranofied.wav" controls></audio>
 
-Whitney Houston reconstructed from whale songs: 
+Whitney Houston song reconstructed from whale songs: 
 
 <audio src="./Concatenative Synthesis Experiments/Whitney Houston - Whalefied.wav" controls></audio>
 <hr>
