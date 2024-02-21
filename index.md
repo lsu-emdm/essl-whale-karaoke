@@ -5,9 +5,9 @@ AI Music Generation Challenge
 [Github Repo - essl-whale-karaoke](https://github.com/lsu-emdm/essl-whale-karaoke)
 
 - [Whale Karaoke](whale-karaoke.md)
-- Concatenative Synthesis
+- [Concatenative Synthesis](Concatenative-Synthesis)
 - [Tempo Experiments](tempo-experiments.md)
-- Whale Beats
+- [Whale Beats](whale-beats.md)
 
 [ESSL Whale Karaoke](https://emdm.cct.lsu.edu/research/esslab/essl-whale-karaoke/)
 
